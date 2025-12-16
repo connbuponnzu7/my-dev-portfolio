@@ -1,0 +1,25 @@
+/* css/warabi.css */
+
+/* 背景や文字の色を和風に設定する */
+body {
+    background-color: #f7f3e8; /* 薄いクリーム色 */
+    color: #3d3a31;           /* 濃い茶色 */
+}
+
+/* ページタイトルを強調 */
+.warabi-mochi-content h1 {
+    font-family: 'serif', '游明朝', serif;
+    color: #8c5643; /* 落ち着いた茶色 */
+    border-bottom: 2px solid #8c5643;
+    padding-bottom: 10px;
+}
+
+/* 画像のスタイル */
+.image-gallery img {
+    max-width: 100%;
+    height: auto;
+    border: 5px solid #ffffff; /* 白い枠線 */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* その他のわらび餅ページ専用の装飾... */
